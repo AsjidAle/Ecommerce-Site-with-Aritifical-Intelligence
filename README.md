@@ -15,11 +15,11 @@ Features:_
 🟤 This would detect the most selling product and would recommend to the premium sellers to sell them.
 
 
-Requirements:_ 
-▶️▶️
-▶️▶️
-▶️▶️
-▶️▶️
+Functional Requirements:_ 
+▶️▶️ User have to register before sell or purchase.
+▶️▶️ Seller have to choose specific catagory durin listing the products.
+▶️▶️ Seller have verify its identity.
+▶️▶️ There is extra premium selling bedge for seller and prime buyer package for primer user 
 ▶️▶️
 ▶️▶️
 
@@ -27,7 +27,8 @@ Requirements:_
 Tools and Lanuages Using:_ 
 ▶️▶️ Languages:_ HTML, CSS, JS, PHP
 ▶️▶️ Bacnkend Framework:_ Laravel for Backend
-▶️▶️ Frontend Framework:_ Bootstrap for frontend along custom css
+▶️▶️ Frontend Framework:_ Bootstrap for frontend
 
 T️echiniques used:_ 
 ▶️▶️ AJAX
+▶️▶️
