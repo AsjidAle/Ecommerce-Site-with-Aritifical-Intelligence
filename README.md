@@ -14,8 +14,6 @@ Features:_
 🟤 As it is using CMS at some parts so it would also to keep make seller to keep tract of his order and sales.
 🟤 This would detect the most selling product and would recommend to the premium sellers to sell them.
 
-
-Functional Requirements:_ 
 ___________________FUNCTIONAL_REQUIREMENTS__________________________
 
 ▶️▶️ User Registration and Authentication:
