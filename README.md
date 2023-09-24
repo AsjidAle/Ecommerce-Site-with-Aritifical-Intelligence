@@ -21,7 +21,68 @@ Functional Requirements:_
 ▶️▶️ Seller have verify its identity.
 ▶️▶️ There is extra premium selling bedge for seller and prime buyer package for primer user 
 ▶️▶️
-▶️▶️
+▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
+
+
+▶️▶️ Performance:
+🟤 Response Time: Specify maximum acceptable response times for various actions (e.g., page load times, search queries).
+🟤 Scalability: Ensure the website can handle increased traffic during peak periods.
+🟤 Concurrency: Support a certain number of concurrent users without performance degradation.
+▶️▶️ Availability and Reliability:
+🟤 Uptime: Define the required uptime percentage (e.g., 99.9%).
+🟤 Fault Tolerance: Implement redundancy and failover mechanisms to minimize downtime.
+🟤 Backup and Recovery: Regularly back up data and have a disaster recovery plan in place.
+▶️▶️ Security:
+🟤 Data Encryption: Use SSL/TLS for data transmission and storage.
+🟤 Authentication: Implement strong user authentication and authorization mechanisms.
+🟤 Data Privacy: Comply with data protection regulations (e.g., GDPR).
+🟤 Firewall and Intrusion Detection: Protect against cyber threats.
+▶️▶️ Scalability:
+🟤 Horizontal Scalability: Ensure the website can scale horizontally by adding more servers or resources as needed.
+🟤 Vertical Scalability: Scale vertically by upgrading server hardware.
+▶️▶️ Compatibility:
+🟤 Cross-Browser Compatibility: Ensure the website functions correctly on popular web browsers (e.g., Chrome, Firefox, Safari, Edge).
+🟤 Device Compatibility: Support various devices (desktop, mobile, tablet) and screen sizes.
+▶️▶️ Usability and Accessibility:
+🟤 Accessibility Compliance: Ensure compliance with web accessibility standards (e.g., WCAG) to accommodate users with disabilities.
+🟤 User-Friendly Design: Prioritize intuitive navigation and user interface design.
+🟤 Error Handling: Provide clear error messages and graceful error recovery.
+▶️▶️ Load Testing:
+🟤 Stress Testing: Test the system's performance under extreme load conditions.
+🟤 Load Balancing: Implement load balancing to distribute traffic evenly.
+▶️▶️ Compliance:
+🟤 Legal and Regulatory Compliance: Adhere to relevant laws and regulations, such as tax laws and consumer protection laws.
+🟤 Payment Card Industry Data Security Standard (PCI DSS): Comply with PCI DSS if handling credit card data.
+▶️▶️ Content Management:
+🟤 Content Delivery Network (CDN): Utilize CDNs for faster content delivery.
+🟤 Content Versioning: Manage and version control website content.
+▶️▶️ Monitoring and Logging:
+🟤 Monitoring Tools: Implement monitoring tools to track system performance and user behavior.
+🟤 Logging: Maintain logs for auditing and troubleshooting.
+▶️▶️ Localization:
+🟤 Language Support: Support multiple languages and locales.
+🟤 Currency Conversion: Provide currency conversion for international customers.
+▶️▶️ Third-Party Integrations:
+🟤 Payment Gateways: Ensure seamless integration with chosen payment gateways.
+🟤 Shipping Carriers: Integrate with various shipping carriers for accurate shipping calculations.
+▶️▶️ Backup and Recovery:
+🟤 Regular Backups: Schedule regular data backups and test data restoration procedures.
+🟤 Redundancy: Implement redundancy for critical systems and data storage.
+▶️▶️ Cost and Budget Constraints:
+🟤 Define budget constraints for hosting, development, and ongoing maintenance.
+▶️▶️ Performance Testing:
+🟤 Conduct performance testing to validate that the site meets specified performance criteria.
+▶️▶️ Documentation:
+🟤 Maintain comprehensive system documentation, including architecture, APIs, and user manuals.
+▶️▶️ User Training and Support:
+🟤 Provide training resources for end-users and customer support for inquiries and issues.
+▶️▶️ Environmental Constraints:
+🟤 Consider any environmental factors, such as server location and energy efficiency.
+▶️▶️ Search Engine Optimization (SEO):
+🟤 Implement SEO best practices to improve the website's visibility in search engine results.
+▶️▶️ User Feedback and Continuous Improvement:
+🟤 Establish mechanisms for collecting user feedback and use it to continually improve the site.
+▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
 
 Tools and Lanuages Using:_ 
