@@ -16,13 +16,100 @@ Features:_
 
 
 Functional Requirements:_ 
-▶️▶️ User have to register before sell or purchase.
-▶️▶️ Seller have to choose specific catagory durin listing the products.
-▶️▶️ Seller have verify its identity.
-▶️▶️ There is extra premium selling bedge for seller and prime buyer package for primer user 
-▶️▶️
-▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
+___________________FUNCTIONAL_REQUIREMENTS__________________________
 
+▶️▶️ User Registration and Authentication:
+🟤 User registration with email or social media accounts.
+🟤 Seller have verify its identity.
+🟤 Secure login/logout functionality.
+🟤 Password reset and recovery options.
+▶️▶️ Product Catalog:
+🟤 Seller have to choose specific catagory durin listing the product.
+🟤 There is extra premium selling bedge for seller and prime buyer package for primer user 
+🟤 Display products with details (e.g., name, price, description, images).
+🟤 Categorize products into relevant categories and subcategories.
+🟤 Implement product search and filtering options.
+▶️▶️ Shopping Cart:
+🟤 Add and remove items from the cart.
+🟤 Calculate and display the total order amount.
+🟤 Allow users to view and edit the cart before checkout.
+▶️▶️ Product Detail Pages:
+🟤 Detailed product descriptions.
+🟤 Multiple product images.
+🟤 Customer reviews and ratings.
+🟤 Related products or upsell suggestions.
+▶️▶️ Home Page Details
+🟤 Suggest 10% related products
+🟤 Suggest 20% prodcts from previous search unless purchase after purchase reduce to 5%
+🟤 Suggest 10% gender relevent products.
+🟤 Suggest 10% age relevent products.
+🟤 Suggest 10% top selling prooducts.
+🟤 Suggest 5% products of prime sellers.
+🟤 Suggest rest random products.
+▶️▶️ Checkout and Payment:
+🟤 Secure and user-friendly checkout process.
+🟤 Multiple payment options (credit card, PayPal, etc.).
+🟤 Billing and shipping address management.
+🟤 Order summary and confirmation page.
+▶️▶️ Order Management:
+🟤 Order history for registered users.
+🟤 Order status tracking and notifications.
+🟤 Print and email order invoices.
+🟤 On receiving an order send an email to the seller and confimation email to the buyer.
+▶️▶️ Inventory Management:
+🟤 Automatically update product availability.
+🟤 Notify users when a product is out of stock.
+🟤 Admin tools for managing product inventory.
+▶️▶️ User Profiles:
+🟤 User profiles with order history.
+🟤 Address book for multiple shipping addresses.
+🟤 Personalized recommendations based on user activity.
+▶️▶️ Security:
+🟤 SSL encryption for data transmission.
+🟤 Secure payment processing.
+🟤 Protection against common web vulnerabilities (e.g., XSS, CSRF).
+🟤 Rechapta on all forms expecially for admins before login to pannel each time.
+▶️▶️ Admin Dashboard:
+🟤 Product and content management.
+🟤 Order processing and management.
+🟤 User management and reporting tools.
+▶️▶️ Search and Navigation:
+🟤 Advanced search functionality with filters.
+🟤 Breadcrumbs for easy navigation.
+🟤 Sorting options for product listings.
+▶️▶️ Reviews and Ratings:
+🟤 Allow customers to leave reviews and ratings.
+🟤 Display average product ratings.
+🟤 Admin tools for moderating reviews.
+▶️▶️ Shipping and Delivery:
+🟤 Calculate shipping costs based on location and order weight.
+🟤 Provide estimated delivery times.
+🟤 Integration with shipping carriers for tracking.
+▶️▶️ Returns and Refunds:
+🟤 Clearly defined return and refund policies.
+🟤 User-friendly return request process.
+🟤 Admin tools for processing returns and refunds.
+▶️▶️ Notifications and Communication:
+🟤 Email notifications for order updates.
+🟤 Newsletter subscriptions.
+🟤 Live chat or customer support contact options.
+▶️▶️ Mobile Responsiveness:
+🟤 Ensure the website is mobile-friendly for a seamless experience on smartphones and tablets.
+▶️▶️ Analytics and Reporting:
+🟤 Track user behavior and sales data.
+🟤 Generate reports on website performance.
+🟤 Use analytics to make data-driven decisions.
+▶️▶️ Multilingual and Currency Support:
+🟤 Support for multiple languages and currencies.
+🟤 Locale-specific content and pricing.
+▶️▶️ Social Media Integration:
+🟤 Share products on social media platforms.
+🟤 Social login options for user convenience.
+▶️▶️ Wishlist and Favorites:
+🟤 Allow users to create wishlists and mark favorite products.
+🟤 Provide options to share wishlists with others.
+
+__________________________________________NON-FUNCTIONAL_REQUIREMENTS_____________________________________________________
 
 ▶️▶️ Performance:
 🟤 Response Time: Specify maximum acceptable response times for various actions (e.g., page load times, search queries).
