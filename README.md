@@ -177,4 +177,4 @@ __________________________________________NON-FUNCTIONAL_REQUIREMENTS___________
 
 T️echiniques used:_ 
 ▶️▶️ AJAX
-▶️▶️
+▶️▶️ JSON
