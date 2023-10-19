@@ -334,10 +334,10 @@ Ecommrace store with Aritificial Intelligence providing CMS pettern for uses and
 
 
 <h2>Tools and Lanuages Using:_ </h2>
-🟤 Languages:_ HTML, CSS, JS, PHP
-🟤 Bacnkend Framework:_ Laravel for Backend
-🟤 Frontend Framework:_ Bootstrap for frontend
+<ul>
+<li> <b><i>Languages:_</i></b> HTML, CSS, JS, PHP</li>
+<li> <b><i>Backend Framework:_</i></b>  Laravel for Backend</li>
+<li> <b><i>Frontend Framework:_</i></b> Bootstrap for frontend</li>
+<li> <b><i>T️echiniques used:_</i></b> AJAX, JSON</li>
+</ul>
 
-T️echiniques used:_ 
-▶️▶️ AJAX
-▶️▶️ JSON
